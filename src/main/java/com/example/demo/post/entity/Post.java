@@ -20,7 +20,4 @@ public class Post {
 
     @Column(name = "content")
     private String content;
-
-    @Column(name = "Writer")
-    private String writer;
 }
